@@ -4,7 +4,7 @@ import Book from "./components/Book.js";
 function App() {
   return (
     <div className="App">
-      <Book />
+      <Book message="Viatge a la lluna" />
     </div>
   );
 }
